@@ -113,8 +113,8 @@
       "bfbiaotiqian": "span>", //播放剧集标题前关键词 
       "bfbiaotihou": "</span", //状播放剧集标题后关键词  
       "bflianjieqian": "href=\"", //播放剧集链接前关键词 
-      "bflianjiehou": "\""
- }, //播放剧集链接后关键词 
+      "bflianjiehou": "\"" //播放剧集链接后关键词 
+ },
 
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
