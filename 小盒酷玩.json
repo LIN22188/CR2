@@ -71,6 +71,16 @@
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945ad30d5255359385ba59b8fb061bb7"
         },
 
+ {
+            "key": "Hanime",
+            "name": "Hanime",
+            "type": 3,
+            "api": "csp_Hanime",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+
 {
             "key": "Jable",
             "name": "Jable",
