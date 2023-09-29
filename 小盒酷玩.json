@@ -13,6 +13,8 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+
+
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
@@ -22,6 +24,8 @@
 "parses": [ 
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
+
+{"name": "YT解析","type": 3,"url": "https://jx.yangtu.top?url="},
 
 {"name": "web聚合","type": 3,"url": "Web"}
 
