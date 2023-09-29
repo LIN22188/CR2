@@ -63,7 +63,7 @@
     "搜索url": "https://app.syrme.top/video/search?q={wd}",
     "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
     "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-}
+},
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
